@@ -33,7 +33,7 @@ namespace Translations
                 if (currentCulture != value)
                 {
                     currentCulture = value;
-                    NotifyPropertyChanged();
+                    NotifyPropertyChanged("Item");
                 }
             }
         }
