@@ -5,6 +5,7 @@
 		xmlns:loc="clr-namespace:Translations;assembly=Translations"
         mc:Ignorable="d" d:DesignWidth="400" d:DesignHeight="250"
         x:Class="MarkupExtension.MainWindow"
+		Width="400" Height="250"
         Title="MarkupExtension">
 	<Grid>
 
